@@ -18,11 +18,12 @@
 ### [안락한가](https://github.com/jannchoi/Anlaka)
 지도 기반 클러스터링 부동산 앱  
 **기술 스택:** SwiftUI, MVI  
-**주요 기능:** 채팅, 커뮤니티, 결제
+**주요 기능:** 지도 기반 클러스터링, 채팅, 커뮤니티, 결제
 
 ### [마지막 페이지](https://github.com/jannchoi/LastPage) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)](https://apps.apple.com/kr/app/%EB%A7%88%EC%A7%80%EB%A7%89-%ED%8E%98%EC%9D%B4%EC%A7%80/id6744329068)
 AI기반 독서 기록 정리 앱  
 **기술 스택:** UIKit, MVVM, Combine
+**주요 기능:** 독서 기록, AI기반 질문 키워드 제시, 감정 분석 배경색 추천, 위젯, 통계 
 
 ### [RecordKit](https://github.com/jannchoi/RecordKit.git) ![Swift Package](https://img.shields.io/badge/Swift_Package-FA7343?style=flat&logo=swift&logoColor=white)
 책, 영화, 음악 등을 저장할 수 있는 DB 매니저  
